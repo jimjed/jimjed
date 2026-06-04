@@ -18,21 +18,17 @@
 ### 🛠️ Core Competencies
 * **Cellular Standards**: 5G SA/NSA, 4G LTE, 3GPP Specifications (Rel-15 to Rel-20), AMF, SMF, UPF, MME, SGW, PGW, URSP, VoNR, VoWiFi.
 * **Testing & Tools**: Spirent Landslide load validation (100s Gbps, millions of users), ATP (Acceptance Test Procedures), MoP.
-* **AI & Simulations**: 3GPP NWDAF LSTM prediction, SDR labs, Rayleigh Fading Simulators, srsRAN, Open5GS.
+* **AI & Simulations**: AI/ML applications in 6G (Neural Networks, Logistic Regression, Random Forests, Decision Trees, Dimensionality reduction etc), 3GPP NWDAF LSTM prediction, SDR labs, Rayleigh Fading Simulators, srsRAN, Open5GS.
 * **Cloud & Virtualization**: NFV Architecture, OpenStack, Cloud-native Containerized Network Functions (VNFs).
 
 ---
 
 ### 📂 Featured Repositories
-* 📡 **[5G-SA-simulation](https://github.com/jimjed/5G-SA-simulation)**: Configuration and orchestration scripts for a fully functional 5G Standalone (SA) network simulation using ZMQ as a virtual RF front-end.
-* 🧠 **[ai-assisted-paging-5g](https://github.com/jimjed/ai-assisted-paging-5g)**: AI-assisted mobility prediction for sequential paging optimization in 5G networks, reducing control-plane signaling using LSTM-based analytics aligned with 3GPP NWDAF.
-* 📊 **[single-cell-cellular-network-simulation](https://github.com/jimjed/single-cell-cellular-network-simulation)**: Discrete-event simulator in Python implementing Okumura-Hata and Rayleigh fading models to analyze capacity/coverage tradeoffs.
-* 🎛️ **[Erlang-B-Calculator](https://github.com/jimjed/Erlang-B-Calculator)**: Python traffic dimensioning script for telecommunications capacity planning.
-
----
-
-### 📈 Stats
-[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimjed&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+* **[BillSplit](https://github.com/jimjed/BillSplit)**: A standalone, client-side web application designed to make receipt splitting quick, itemized, and friction-free. Perfect as a companion tool for apps like Splitwise and SettleUp.
+* **[single-cell-cellular-network-simulation](https://github.com/jimjed/single-cell-cellular-network-simulation)**: Discrete-event simulator in Python implementing Okumura-Hata and Rayleigh fading models to analyze capacity/coverage tradeoffs.
+* **[5G-SA-simulation](https://github.com/jimjed/5G-SA-simulation)**: Configuration and orchestration scripts for a fully functional 5G Standalone (SA) network simulation using ZMQ as a virtual RF front-end.
+* **[ai-assisted-paging-5g](https://github.com/jimjed/ai-assisted-paging-5g)**: AI-assisted mobility prediction for sequential paging optimization in 5G networks, reducing control-plane signaling using LSTM-based analytics aligned with 3GPP NWDAF.
+* **[Erlang-B-Calculator](https://github.com/jimjed/Erlang-B-Calculator)**: Python traffic dimensioning script for telecommunications capacity planning.
 
 ---
 
